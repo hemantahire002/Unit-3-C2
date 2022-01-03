@@ -1,0 +1,14 @@
+#cart {
+  background-color: teal;
+  color: white;
+  width: 100px;
+  border: 0;
+  padding: 20px;
+  margin-right: 100px;
+
+  /* margin-button: 100px; */
+  vertical-align: top;
+}
+#total {
+  font-size: 40px;
+}
