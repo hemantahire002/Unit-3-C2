@@ -1,0 +1,14 @@
+#container {
+  width: 98%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 3%;
+}
+#cart {
+  background-color: teal;
+  color: white;
+  width: 100px;
+  border: 0;
+  padding: 20px;
+  margin-bottom: 40px;
+}
